@@ -17,6 +17,7 @@ After running the script (I will explain how to after this section), the UNSYNCE
 ![After](https://i.imgur.com/KYDSYKf.jpg)
 
 To prove that this is actually useful, here is the song loaded on my iPhone, as you can see, we can now read the lyrics directly from the app.
+
 ![Shown on an iPhone.](https://i.imgur.com/c7iHvhR.png)
 
 ## How to use

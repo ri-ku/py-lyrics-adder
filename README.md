@@ -26,4 +26,4 @@ There are two ways you can use this script.
 - If your song does not contain tags, or you have no idea what tags are, then you probably need to manually set the song title and artist. Please note that any mistake can mess up the search.
 <pre>python add_lyics.py [path] -t [title] -a [author]</pre>
 
-**Please note that the title, author and file path must be put inside quotes. "Like so."**
+**Please note that the title, author and file path must be put inside quotes. "Like so.". Furthermore, -t must always be put before -a. Unless you want trouble.**

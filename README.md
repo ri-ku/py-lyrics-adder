@@ -10,14 +10,14 @@ Once that is done, open the *add_lyrics.py* file and add your [Genius API token]
 
 ### Demonstration
 Here is the file we are going to use. There are no lyrics tag on the file.
-![Before](https://i.imgur.com/9UT13sw.jpg)
+![Before](https://i.imgur.com/cmsmzAp.jpg)
 
 After running the script (I will explain how to after this section), the UNSYNCEDLYICS tags now have been added.
-![Using the script](https://i.imgur.com/D0NtDn6.png)
-![After](https://i.imgur.com/6xz9pR5.jpg)
+![Using the script](https://i.imgur.com/tLRfiB8.png)
+![After](https://i.imgur.com/KYDSYKf.jpg)
 
 To prove that this is actually useful, here is the song loaded on my iPhone, as you can see, we can now read the lyrics directly from the app.
-![Shown on an iPhone.](https://i.imgur.com/OW9zyVi.png)
+![Shown on an iPhone.](https://i.imgur.com/c7iHvhR.png)
 
 ## How to use
 There are two ways you can use this script.
